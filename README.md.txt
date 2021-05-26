@@ -1,6 +1,4 @@
-Olá!!
-
-
+Olá!
 
 Eu sou a **Beatriz**, tenho **16 anos**, sou 
 
